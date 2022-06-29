@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(27, 25, 45);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 800px;
+  width: 100vw;
+}
